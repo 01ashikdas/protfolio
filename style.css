@@ -103,7 +103,7 @@ section {
     color: #181818;
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 
 .section-description {
@@ -161,4 +161,45 @@ section {
 
 .skill-description {
     color: #757575;
+}
+
+/* Resume styles  */
+.resume-content {
+    display: flex;
+    gap: 24px;
+}
+
+.resume-items {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.resume-title {
+    font-weight: 700;
+    font-size: 30px;
+
+}
+
+.resume .item-title {
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.resume .item-sub-title {
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+.resume .item-description {
+    color: #757575;
+}
+
+.resume-btn {
+    margin-top: 50px;
+    text-align: center;
 }
