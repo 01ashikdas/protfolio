@@ -203,3 +203,23 @@ section {
     margin-top: 50px;
     text-align: center;
 }
+
+/* contact styles  */
+.contact {
+    background: #FFF8F3;
+    display: flex;
+    gap: 100px;
+    padding: 130px 200px;
+}
+
+.contact input,
+textarea {
+    border: 0;
+    margin-bottom: 24px;
+    padding: 18px 30px;
+
+}
+
+.contact a {
+    text-decoration: none;
+}
